@@ -1,0 +1,283 @@
+{
+  "_Base-B57mFvZQ.js": {
+    "file": "assets/Base-B57mFvZQ.js",
+    "assets": [
+      "assets/Base-D3uFkxDl.png"
+    ]
+  },
+  "_Card2-Ch_ta0W4.js": {
+    "file": "assets/Card2-Ch_ta0W4.js",
+    "imports": [
+      "_web-D8qGCTXe.js",
+      "_routing-B4bTVxWt.js",
+      "_LoaderIcon-aE-qRZbu.js"
+    ]
+  },
+  "_Footer-CazmUOC7.js": {
+    "file": "assets/Footer-CazmUOC7.js",
+    "imports": [
+      "_web-D8qGCTXe.js"
+    ],
+    "assets": [
+      "assets/logofooter-Dc7MQWnT.svg"
+    ]
+  },
+  "_LoaderIcon-aE-qRZbu.js": {
+    "file": "assets/LoaderIcon-aE-qRZbu.js",
+    "imports": [
+      "_web-D8qGCTXe.js"
+    ]
+  },
+  "_components-CBlfzv1Q.js": {
+    "file": "assets/components-CBlfzv1Q.js",
+    "imports": [
+      "_web-D8qGCTXe.js",
+      "_routing-B4bTVxWt.js"
+    ]
+  },
+  "_index-fOczvcKO.js": {
+    "file": "assets/index-fOczvcKO.js"
+  },
+  "_product-BIrgGnpd.js": {
+    "file": "assets/product-BIrgGnpd.js",
+    "assets": [
+      "assets/product-BNwlNQck.png"
+    ]
+  },
+  "_routing-B4bTVxWt.js": {
+    "file": "assets/routing-B4bTVxWt.js",
+    "imports": [
+      "_web-D8qGCTXe.js"
+    ]
+  },
+  "_web-D8qGCTXe.js": {
+    "file": "assets/web-D8qGCTXe.js"
+  },
+  "node_modules/shikiji/dist/onig.wasm": {
+    "file": "assets/onig-Du5pRr7Y.wasm",
+    "src": "node_modules/shikiji/dist/onig.wasm"
+  },
+  "src/img/Base.png": {
+    "file": "assets/Base-D3uFkxDl.png",
+    "src": "src/img/Base.png"
+  },
+  "src/img/banner.png": {
+    "file": "assets/banner-CMWWeWHk.png",
+    "src": "src/img/banner.png"
+  },
+  "src/img/catcategoty.png": {
+    "file": "assets/catcategoty-DZWzhche.png",
+    "src": "src/img/catcategoty.png"
+  },
+  "src/img/category1.png": {
+    "file": "assets/category1-DW47B9lk.png",
+    "src": "src/img/category1.png"
+  },
+  "src/img/fishcategory.png": {
+    "file": "assets/fishcategory-BzFKVmMT.png",
+    "src": "src/img/fishcategory.png"
+  },
+  "src/img/logo.svg": {
+    "file": "assets/logo-HaIiWWCp.svg",
+    "src": "src/img/logo.svg"
+  },
+  "src/img/logobanner1.png": {
+    "file": "assets/logobanner1-BeZw9Phg.png",
+    "src": "src/img/logobanner1.png"
+  },
+  "src/img/logofooter.svg": {
+    "file": "assets/logofooter-Dc7MQWnT.svg",
+    "src": "src/img/logofooter.svg"
+  },
+  "src/img/parrotcategory.png": {
+    "file": "assets/parrotcategory-CUne2f9q.png",
+    "src": "src/img/parrotcategory.png"
+  },
+  "src/img/product.png": {
+    "file": "assets/product-BNwlNQck.png",
+    "src": "src/img/product.png"
+  },
+  "src/img/rodents.png": {
+    "file": "assets/rodents-Bp5pXC5h.png",
+    "src": "src/img/rodents.png"
+  },
+  "src/routes/[...404].tsx?pick=default&pick=$css": {
+    "file": "assets/_...404_-DUA12w7Q.js",
+    "src": "src/routes/[...404].tsx?pick=default&pick=$css",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_web-D8qGCTXe.js",
+      "_Footer-CazmUOC7.js"
+    ]
+  },
+  "src/routes/cart.tsx?pick=default&pick=$css": {
+    "file": "assets/cart-CPZykOb-.js",
+    "src": "src/routes/cart.tsx?pick=default&pick=$css",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_web-D8qGCTXe.js",
+      "_Footer-CazmUOC7.js",
+      "_product-BIrgGnpd.js",
+      "_LoaderIcon-aE-qRZbu.js",
+      "_components-CBlfzv1Q.js",
+      "_routing-B4bTVxWt.js"
+    ]
+  },
+  "src/routes/catalog.tsx?pick=default&pick=$css": {
+    "file": "assets/catalog-BPcOHE23.js",
+    "src": "src/routes/catalog.tsx?pick=default&pick=$css",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_web-D8qGCTXe.js",
+      "_Footer-CazmUOC7.js",
+      "_Base-B57mFvZQ.js",
+      "_routing-B4bTVxWt.js",
+      "_LoaderIcon-aE-qRZbu.js",
+      "_components-CBlfzv1Q.js"
+    ]
+  },
+  "src/routes/checkout.tsx?pick=default&pick=$css": {
+    "file": "assets/checkout-GJgyrJOI.js",
+    "src": "src/routes/checkout.tsx?pick=default&pick=$css",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_web-D8qGCTXe.js",
+      "_Footer-CazmUOC7.js",
+      "_index-fOczvcKO.js",
+      "_components-CBlfzv1Q.js",
+      "_routing-B4bTVxWt.js"
+    ]
+  },
+  "src/routes/favorites.tsx?pick=default&pick=$css": {
+    "file": "assets/favorites-C0CyK_fX.js",
+    "src": "src/routes/favorites.tsx?pick=default&pick=$css",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_web-D8qGCTXe.js",
+      "_Footer-CazmUOC7.js",
+      "_routing-B4bTVxWt.js",
+      "_LoaderIcon-aE-qRZbu.js",
+      "_components-CBlfzv1Q.js"
+    ]
+  },
+  "src/routes/index.tsx?pick=default&pick=$css": {
+    "file": "assets/index-Em_zRj3o.js",
+    "src": "src/routes/index.tsx?pick=default&pick=$css",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_web-D8qGCTXe.js",
+      "_Card2-Ch_ta0W4.js",
+      "_Base-B57mFvZQ.js",
+      "_Footer-CazmUOC7.js",
+      "_routing-B4bTVxWt.js",
+      "_LoaderIcon-aE-qRZbu.js"
+    ],
+    "css": [
+      "assets/index-Cd5ZnWH_.css"
+    ],
+    "assets": [
+      "assets/category1-DW47B9lk.png",
+      "assets/catcategoty-DZWzhche.png",
+      "assets/parrotcategory-CUne2f9q.png",
+      "assets/fishcategory-BzFKVmMT.png",
+      "assets/rodents-Bp5pXC5h.png",
+      "assets/banner-CMWWeWHk.png",
+      "assets/logobanner1-BeZw9Phg.png"
+    ]
+  },
+  "src/routes/login.tsx?pick=default&pick=$css": {
+    "file": "assets/login-DcxKm-JB.js",
+    "src": "src/routes/login.tsx?pick=default&pick=$css",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_web-D8qGCTXe.js",
+      "_Footer-CazmUOC7.js",
+      "_components-CBlfzv1Q.js",
+      "_routing-B4bTVxWt.js"
+    ]
+  },
+  "src/routes/productinfo.tsx?pick=default&pick=$css": {
+    "file": "assets/productinfo-DTubpYpe.js",
+    "src": "src/routes/productinfo.tsx?pick=default&pick=$css",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_web-D8qGCTXe.js",
+      "_Footer-CazmUOC7.js",
+      "_product-BIrgGnpd.js",
+      "_Card2-Ch_ta0W4.js",
+      "_routing-B4bTVxWt.js",
+      "_LoaderIcon-aE-qRZbu.js",
+      "_components-CBlfzv1Q.js"
+    ]
+  },
+  "src/routes/profile.tsx?pick=default&pick=$css": {
+    "file": "assets/profile-BesJcHBg.js",
+    "src": "src/routes/profile.tsx?pick=default&pick=$css",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_web-D8qGCTXe.js",
+      "_Footer-CazmUOC7.js",
+      "_index-fOczvcKO.js",
+      "_routing-B4bTVxWt.js",
+      "_LoaderIcon-aE-qRZbu.js",
+      "_components-CBlfzv1Q.js"
+    ]
+  },
+  "src/routes/reg.tsx?pick=default&pick=$css": {
+    "file": "assets/reg-B-_rmmxr.js",
+    "src": "src/routes/reg.tsx?pick=default&pick=$css",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_web-D8qGCTXe.js",
+      "_Footer-CazmUOC7.js"
+    ]
+  },
+  "src/routes/thank.tsx?pick=default&pick=$css": {
+    "file": "assets/thank-Br0Ta-gx.js",
+    "src": "src/routes/thank.tsx?pick=default&pick=$css",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_web-D8qGCTXe.js",
+      "_Footer-CazmUOC7.js"
+    ]
+  },
+  "virtual:#vinxi/handler/client": {
+    "file": "assets/client-BX3zLUfQ.js",
+    "src": "virtual:#vinxi/handler/client",
+    "isEntry": true,
+    "imports": [
+      "_web-D8qGCTXe.js",
+      "_routing-B4bTVxWt.js"
+    ],
+    "dynamicImports": [
+      "src/routes/cart.tsx?pick=default&pick=$css",
+      "src/routes/catalog.tsx?pick=default&pick=$css",
+      "src/routes/checkout.tsx?pick=default&pick=$css",
+      "src/routes/favorites.tsx?pick=default&pick=$css",
+      "src/routes/index.tsx?pick=default&pick=$css",
+      "src/routes/login.tsx?pick=default&pick=$css",
+      "src/routes/productinfo.tsx?pick=default&pick=$css",
+      "src/routes/profile.tsx?pick=default&pick=$css",
+      "src/routes/reg.tsx?pick=default&pick=$css",
+      "src/routes/thank.tsx?pick=default&pick=$css",
+      "src/routes/[...404].tsx?pick=default&pick=$css"
+    ],
+    "css": [
+      "assets/client-BahL7dT3.css"
+    ],
+    "assets": [
+      "assets/logo-HaIiWWCp.svg"
+    ]
+  }
+}
